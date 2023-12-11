@@ -1,4 +1,5 @@
 # roll
 şaka programı
-bilgisayarınınızın ekranını f1'e basana kadar döndürür
+bilgisayarınınızın ekranını f1'e basana kadar
+döndürür
 
